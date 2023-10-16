@@ -1,0 +1,22 @@
+{
+  "name": "sample_project",
+  "version": "0.1.0",
+  "description": "class example",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaiciek/webdev.git"
+  },
+  "keywords": [
+    "myKeyword"
+  ],
+  "author": "Kaicie Kidd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaiciek/webdev/issues"
+  },
+  "homepage": "https://github.com/kaiciek/webdev#readme"
+}
